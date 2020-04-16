@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043263733813",
+    "firebase_url": "https://smarthomeiot-5a5e3.firebaseio.com",
+    "project_id": "smarthomeiot-5a5e3",
+    "storage_bucket": "smarthomeiot-5a5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043263733813:android:e59389b9da1ef0c567b17c",
+        "android_client_info": {
+          "package_name": "com.example.smarthomeiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043263733813-ub0bvnfmvfr8qj8djobcf21u06h1lm7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthomeiot",
+            "certificate_hash": "b40ee3d7ad4ec5924d552178a18485992185271f"
+          }
+        },
+        {
+          "client_id": "1043263733813-ipntvma6oa3she9qug2nuc3vvl2oi79v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRNAXGbA6J-vMaqJGyt_zivy2EAlL3ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043263733813-ipntvma6oa3she9qug2nuc3vvl2oi79v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
